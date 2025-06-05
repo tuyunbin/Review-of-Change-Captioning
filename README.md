@@ -12,3 +12,7 @@
   -  Dong Huk Park, Trevor Darrell, Anna Rohrbach
   - ICCV 2019
 
+- **Expressing Visual Relationships via Language** [[paper]](https://aclanthology.org/P19-1182.pdf) [[code]](https://github.com/airsplay/VisualRelationships)
+  -  Hao Tan, Franck Dernoncourt, Zhe Lin, Trung Bui, Mohit Bansal
+  - ACL 2019
+
