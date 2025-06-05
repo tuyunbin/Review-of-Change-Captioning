@@ -15,4 +15,9 @@
 - **Expressing Visual Relationships via Language** [[paper]](https://aclanthology.org/P19-1182.pdf) [[code]](https://github.com/airsplay/VisualRelationships)
   -  Hao Tan, Franck Dernoncourt, Zhe Lin, Trung Bui, Mohit Bansal
   - ACL 2019
+ 
+- **Finding It at Another Side: A Viewpoint-Adapted Matching Encoder for Change Captioning** [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590562.pdf)
+  -  Xiangxi Shi, Xu Yang, Jiuxiang Gu, Sha q Joty, and Jianfei Cai
+  - ECCV 2020
+
 
