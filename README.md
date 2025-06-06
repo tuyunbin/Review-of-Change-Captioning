@@ -37,6 +37,15 @@
 - **Scene Graph with 3D Information for Change Captioning** [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475712) 
   -  Zeming Liao, Qingbao Huang, Yu Liang, Mingyi Fu, Yi Cai, Qing Li
   - ACM MM 2021
+ 
+ 
+- **Semantic Relation-aware Difference Representation Learning for Change Captioning** [[paper]](https://aclanthology.org/2021.findings-acl.6.pdf) [[code]](https://github.com/tuyunbin/SRDRL) (Our work)
+  -  Yunbin Tu, Tingting Yao, Liang Li, Jiedong Lou, Shengxiang Gao, Zhengtao Yu, Chenggang Yan
+  - ACL Fidings 2021
+
+- **R^3 Net:Relation-embedded Representation Reconstruction Network for Change Captioning** [[paper]](https://aclanthology.org/2021.emnlp-main.735.pdf) [[code]](https://github.com/tuyunbin/R3Net) (Our work)
+  -  Yunbin Tu, Liang Li, Chenggang Yan, Shengxiang Gao, Zhengtao Yu
+  - EMNLP 2021
 
 
 ## 3D Scenes
