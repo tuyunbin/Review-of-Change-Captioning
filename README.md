@@ -39,11 +39,11 @@
   - ACM MM 2021
  
  
-- **Semantic Relation-aware Difference Representation Learning for Change Captioning** [[paper]](https://aclanthology.org/2021.findings-acl.6.pdf) [[code]](https://github.com/tuyunbin/SRDRL) (Our work)
+- **Semantic Relation-aware Difference Representation Learning for Change Captioning** [[paper]](https://aclanthology.org/2021.findings-acl.6.pdf) [[code]](https://github.com/tuyunbin/SRDRL) (My work)
   -  Yunbin Tu, Tingting Yao, Liang Li, Jiedong Lou, Shengxiang Gao, Zhengtao Yu, Chenggang Yan
   - ACL Fidings 2021
 
-- **R^3 Net:Relation-embedded Representation Reconstruction Network for Change Captioning** [[paper]](https://aclanthology.org/2021.emnlp-main.735.pdf) [[code]](https://github.com/tuyunbin/R3Net) (Our work)
+- **R^3 Net:Relation-embedded Representation Reconstruction Network for Change Captioning** [[paper]](https://aclanthology.org/2021.emnlp-main.735.pdf) [[code]](https://github.com/tuyunbin/R3Net) (My work)
   -  Yunbin Tu, Liang Li, Chenggang Yan, Shengxiang Gao, Zhengtao Yu
   - EMNLP 2021
 
