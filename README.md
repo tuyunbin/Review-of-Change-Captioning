@@ -20,5 +20,9 @@
 - **Finding It at Another Side: A Viewpoint-Adapted Matching Encoder for Change Captioning** [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590562.pdf)
   -  Xiangxi Shi, Xu Yang, Jiuxiang Gu, Sha q Joty, and Jianfei Cai
   - ECCV 2020
+ 
+- **Image Change Captioning by Learning from an Auxiliary Task** [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Hosseinzadeh_Image_Change_Captioning_by_Learning_From_an_Auxiliary_Task_CVPR_2021_paper.pdf)
+  -  Mehrdad Hosseinzadeh and Yang Wang
+  - CVPR 2021
 
 
