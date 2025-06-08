@@ -43,7 +43,7 @@
   -  Yunbin Tu, Tingting Yao, Liang Li, Jiedong Lou, Shengxiang Gao, Zhengtao Yu, Chenggang Yan
   - ACL Fidings 2021
 
-- **R^3 Net:Relation-embedded Representation Reconstruction Network for Change Captioning** [[paper]](https://aclanthology.org/2021.emnlp-main.735.pdf) [[code]](https://github.com/tuyunbin/R3Net)
+- **R<sup>3</sup>Net: Relation-embedded Representation Reconstruction Network for Change Captioning** [[paper]](https://aclanthology.org/2021.emnlp-main.735.pdf) [[code]](https://github.com/tuyunbin/R3Net)
   -  Yunbin Tu, Liang Li, Chenggang Yan, Shengxiang Gao, Zhengtao Yu
   - EMNLP 2021
 
