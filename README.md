@@ -47,6 +47,10 @@
   -  Yunbin Tu, Liang Li, Chenggang Yan, Shengxiang Gao, Zhengtao Yu
   - EMNLP 2021
 
+- **L2C: Describing Visual Differences Needs Semantic Understanding of Individuals** [[paper]](https://aclanthology.org/2021.eacl-main.196.pdf) 
+  -  An Yan, Xin Wang, Tsu-Jui Fu, William Yang Wang
+  - EACL 2021
+
 
 ## 3D Scenes
 ### Paper
