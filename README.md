@@ -63,6 +63,10 @@
   -  Linli Yao, Weiying Wang, Qin Jin
   - AAAI 2022
 
+- **CLIP4IDC: CLIP for Image Difference Captioning** [[paper]](https://aclanthology.org/2022.aacl-short.5.pdf)  [[code]](https://github.com/sushizixin/CLIP4IDC)
+  -  Zixin Guo, Tzu-Jui Julius Wang, Jorma Laaksonen
+  - AACL 2022
+
 
 ## 3D Scenes
 ### Paper
