@@ -16,6 +16,10 @@
   -  Hao Tan, Franck Dernoncourt, Zhe Lin, Trung Bui, Mohit Bansal
   - ACL 2019
  
+- **Neural Naturalist: Generating Fine-Grained Image Comparisons** [[paper]](https://aclanthology.org/D19-1065.pdf) [[dataset]](https://github.com/google-research-datasets/birds-to-words)
+  -  Maxwell Forbes, Christine Kaeser-Chen, Piyush Sharma, Serge Belongie
+  - EMNLP 2019
+ 
  
 - **Finding It at Another Side: A Viewpoint-Adapted Matching Encoder for Change Captioning** [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590562.pdf)
   -  Xiangxi Shi, Xu Yang, Jiuxiang Gu, Sha q Joty, and Jianfei Cai
