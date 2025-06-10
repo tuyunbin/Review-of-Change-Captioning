@@ -59,6 +59,9 @@
   -  Qingbao Huang, Yu Liang,  Jielong Wei, Yi Cai, Hanyu Liang, Ho-fung Leung, Qing Li
   - TMM 2022
 
+- **Bidirectional difference locating and semantic consistency reasoning for change captioning** [[paper]](https://dl.acm.org/doi/10.1002/int.22821)  
+  -  Yaoqi sun, Liang Li, Tingting Yao, Chenggang Yan et al.
+  - IJIS 2022
 
 ## 3D Scenes
 ### Paper
