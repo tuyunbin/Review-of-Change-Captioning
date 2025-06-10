@@ -56,7 +56,7 @@
   - EACL 2021
  
 - **Image Difference Captioning with Instance-Level Fine-Grained Feature Representation** [[paper]](https://ieeexplore.ieee.org/document/9410374)  [[code]](https://github.com/VILAN-Lab/IFDC)
-  -  Qingbao Huang, Yu Liang  Jielong Wei, Yi Cai, Hanyu Liang, Ho-fung Leung, Qing Li
+  -  Qingbao Huang, Yu Liang,  Jielong Wei, Yi Cai, Hanyu Liang, Ho-fung Leung, Qing Li
   - TMM 2022
 
 
