@@ -54,6 +54,10 @@
 - **L2C: Describing Visual Differences Needs Semantic Understanding of Individuals** [[paper]](https://aclanthology.org/2021.eacl-main.196.pdf) 
   -  An Yan, Xin Wang, Tsu-Jui Fu, William Yang Wang
   - EACL 2021
+ 
+- **Image Difference Captioning with Instance-Level Fine-Grained Feature Representation** [[paper]](https://ieeexplore.ieee.org/document/9410374)  [[code]](https://github.com/VILAN-Lab/IFDC)
+  -  Qingbao Huang, Yu Liang  Jielong Wei, Yi Cai, Hanyu Liang, Ho-fung Leung, Qing Li
+  - TMM 2022
 
 
 ## 3D Scenes
