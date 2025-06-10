@@ -1,7 +1,7 @@
 # Review-of-Change-Captioning
 
 
-## General Scenes: Video Surveillance, Synthetic Data, and Image Editing
+## General Scenes: Video Surveillance, Natural Image (Birds), Synthetic Data, and Image Editing
 ### Awesome Works
 
 - **Learning to Describe Differences Between Pairs of Similar Images** [[paper]](https://aclanthology.org/D18-1436.pdf) [[code and dataset]](https://github.com/harsh19/spot-the-diff)
