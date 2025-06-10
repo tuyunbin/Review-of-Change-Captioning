@@ -59,6 +59,10 @@
   -  Qingbao Huang, Yu Liang,  Jielong Wei, Yi Cai, Hanyu Liang, Ho-fung Leung, Qing Li
   - TMM 2022
 
+- **Image Difference Captioning with Pre-training and Contrastive Learning** [[paper]](https://cdn.aaai.org/ojs/20218/20218-13-24231-1-2-20220628.pdf)  [[code]](https://github.com/yaolinli/IDC)
+  -  Linli Yao, Weiying Wang, Qin Jin
+  - AAAI 2022
+
 
 ## 3D Scenes
 ### Paper
