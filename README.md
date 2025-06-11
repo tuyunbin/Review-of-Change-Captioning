@@ -67,6 +67,10 @@
   -  Zixin Guo, Tzu-Jui Julius Wang, Jorma Laaksonen
   - AACL 2022
 
+- **I3N: Intra- and Inter-Representation Interaction Network for Change Captioning** [[paper]](https://ieeexplore.ieee.org/document/10050818) 
+  -   Shengbin Yue, Yunbin Tu, LiangLi, Ying Yang, Shengxiang Gao, Zhengtao Yu
+  - TMM 2023
+
 
 ## 3D Scenes
 ### Paper
