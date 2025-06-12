@@ -79,6 +79,10 @@
   -  Yunbin Tu, Liang Li, Li Su, Ke Lu, Qingming Huang
   - TMM 2023
  
+- **Viewpoint-Adaptive Representation Disentanglement Network for Change Captioning** [[paper]](https://ieeexplore.ieee.org/document/10108947) [[code]](https://github.com/tuyunbin/VARD)
+  -  Yunbin Tu, Liang Li, Li Su, Junping Du, Ke Lu, Qingming Huang
+  - TIP 2023
+ 
 
 ## 3D Scenes
 ### Paper
