@@ -86,7 +86,10 @@
 - **Self-supervised Cross-view Representation Reconstruction for Change Captioning** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Tu_Self-supervised_Cross-view_Representation_Reconstruction_for_Change_Captioning_ICCV_2023_paper.pdf) [[code]](https://github.com/tuyunbin/SCORER)
   -  Yunbin Tu, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming Huang
   - ICCV 2023
- 
+
+- **Semantic Object Alignment and Region-Aware Learning for Change Captioning** [[paper]](https://ieeexplore.ieee.org/document/10191266) 
+  -   Weidong Tian, Quan Ren, Zhongqiu Zhao, and Ruihua Tian
+  - IJCNN 2023
 
 ## 3D Scenes
 ### Paper
