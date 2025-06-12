@@ -90,6 +90,10 @@
 - **Semantic Object Alignment and Region-Aware Learning for Change Captioning** [[paper]](https://ieeexplore.ieee.org/document/10191266) 
   -   Weidong Tian, Quan Ren, Zhongqiu Zhao, and Ruihua Tian
   - IJCNN 2023
+ 
+- **Graph Representation for Order-aware Visual Transformation** [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Qiu_Graph_Representation_for_Order-Aware_Visual_Transformation_CVPR_2023_paper.pdf) 
+  -   Yue Qiu, Yanjun Sun, Fumiya Matsuzawa, Kenji Iwata, Hirokatsu Kataoka
+  - CVPR 2023
 
 ## 3D Scenes
 ### Paper
