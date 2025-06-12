@@ -58,6 +58,10 @@
 - **Image Difference Captioning with Instance-Level Fine-Grained Feature Representation** [[paper]](https://ieeexplore.ieee.org/document/9410374)  [[code]](https://github.com/VILAN-Lab/IFDC)
   -  Qingbao Huang, Yu Liang,  Jielong Wei, Yi Cai, Hanyu Liang, Ho-fung Leung, Qing Li
   - TMM 2022
+ 
+- **Learning by Imagination: A Joint Framework for Text-Based Image Manipulation and Change Captioning** [[paper]](https://ieeexplore.ieee.org/document/9720958)  
+  -  Kenan E. Ak, YingSun,  Joo Hwee Lim
+  - TMM 2022
 
 - **Image Difference Captioning with Pre-training and Contrastive Learning** [[paper]](https://cdn.aaai.org/ojs/20218/20218-13-24231-1-2-20220628.pdf)  [[code]](https://github.com/yaolinli/IDC)
   -  Linli Yao, Weiying Wang, Qin Jin
@@ -70,7 +74,11 @@
 - **I3N: Intra- and Inter-Representation Interaction Network for Change Captioning** [[paper]](https://ieeexplore.ieee.org/document/10050818) 
   -   Shengbin Yue, Yunbin Tu, LiangLi, Ying Yang, Shengxiang Gao, Zhengtao Yu
   - TMM 2023
-
+  
+- **Neighborhood Contrastive Transformer for Change Captioning** [[paper]](https://ieeexplore.ieee.org/document/10086696) [[code]](https://github.com/tuyunbin/NCT)
+  -  Yunbin Tu, Liang Li, Li Su, Ke Lu, Qingming Huang
+  - TMM 2023
+ 
 
 ## 3D Scenes
 ### Paper
