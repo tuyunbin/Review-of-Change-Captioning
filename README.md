@@ -99,6 +99,10 @@
   -   Shengbin Yue, Yunbin Tu, LiangLi,  Shengxiang Gao, Zhengtao Yu
   - TOMM 2024
 
+- **SMART: Syntax-calibrated Multi-Aspect Relation Transformer for Change Captioning** [[paper]](https://ieeexplore.ieee.org/abstract/document/10433795)  [[code]](https://github.com/tuyunbin/SMART)
+  -   Yunbin Tu, Liang Li, Li Su, Zheng-Jun Zha, Qingming Huang
+  - TPMAI 2024
+  - 
 ## 3D Scenes
 ### Paper
 
