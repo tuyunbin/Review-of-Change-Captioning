@@ -103,7 +103,7 @@
   -   Yunbin Tu, Liang Li, Li Su, Zheng-Jun Zha, Qingming Huang
   - TPMAI 2024
  
-  - **Context-aware Difference Distilling for Multi-change Captioning** [[paper]](https://aclanthology.org/2024.acl-long.430.pdf)  [[code]](https://github.com/tuyunbin/CARD)
+- **Context-aware Difference Distilling for Multi-change Captioning** [[paper]](https://aclanthology.org/2024.acl-long.430.pdf)  [[code]](https://github.com/tuyunbin/CARD)
   -   Yunbin Tu, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming Huang
   - ACL 2024
 
