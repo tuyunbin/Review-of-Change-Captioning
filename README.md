@@ -112,7 +112,7 @@
   - ECCV 2024
     
 - **The STVchrono Dataset: Towards Continuous Change Recognition in Time** [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_The_STVchrono_Dataset_Towards_Continuous_Change_Recognition_in_Time_CVPR_2024_paper.pdf)  [[dataset]](https://github.com/AuderySun/STVchrono)
-  -   Yanjun Sun, Yue Qiu1, Mariia Khan, Fumiya Matsuzawa, Kenji Iwata
+  -   Yanjun Sun, Yue Qiu, Mariia Khan, Fumiya Matsuzawa, Kenji Iwata
   - CVPR 2024
 
 
