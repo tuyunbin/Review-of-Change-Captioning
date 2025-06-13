@@ -106,6 +106,10 @@
 - **Context-aware Difference Distilling for Multi-change Captioning** [[paper]](https://aclanthology.org/2024.acl-long.430.pdf)  [[code]](https://github.com/tuyunbin/CARD)
   -   Yunbin Tu, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming Huang
   - ACL 2024
+ 
+- **Distractors-Immune Representation Learning  with Cross-modal Contrastive Regularization for Change Captioning** [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05989.pdf)  [[code]](https://github.com/tuyunbin/DIRL)
+  -   Yunbin Tu, Liang Li, Li Su, Chenggang Yan, Qingming Huang
+  - ECCV 2024
 
 
 
