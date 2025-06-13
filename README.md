@@ -94,6 +94,10 @@
 - **Graph Representation for Order-aware Visual Transformation** [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Qiu_Graph_Representation_for_Order-Aware_Visual_Transformation_CVPR_2023_paper.pdf) 
   -   Yue Qiu, Yanjun Sun, Fumiya Matsuzawa, Kenji Iwata, Hirokatsu Kataoka
   - CVPR 2023
+ 
+- **Multi-Grained Representation Aggregating Transformer with Gating Cycle for Change Captioning** [[paper]](https://dl.acm.org/doi/10.1145/3660346) 
+  -   Shengbin Yue, Yunbin Tu, LiangLi,  Shengxiang Gao, Zhengtao Yu
+  - TOMM 2024
 
 ## 3D Scenes
 ### Paper
