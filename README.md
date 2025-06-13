@@ -114,6 +114,10 @@
 - **The STVchrono Dataset: Towards Continuous Change Recognition in Time** [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_The_STVchrono_Dataset_Towards_Continuous_Change_Recognition_in_Time_CVPR_2024_paper.pdf)  [[dataset]](https://github.com/AuderySun/STVchrono)
   -   Yanjun Sun, Yue Qiu, Mariia Khan, Fumiya Matsuzawa, Kenji Iwata
   - CVPR 2024
+ 
+- **Relation-Aware Multi-Pass Comparison Deconfounded Network for Change Captioning** [[paper]](https://ieeexplore.ieee.org/document/10638627) 
+  -   Zhicong Lu, Li Jin, Ziwei Chen, Changyuan Tian, Xian Sun, Xiaoyu Li, Yi Zhang, Qi Li, Guangluan Xu
+  - TCSVT 2024
 
 
 
