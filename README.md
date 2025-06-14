@@ -118,6 +118,11 @@
 - **Relation-Aware Multi-Pass Comparison Deconfounded Network for Change Captioning** [[paper]](https://ieeexplore.ieee.org/document/10638627) 
   -   Zhicong Lu, Li Jin, Ziwei Chen, Changyuan Tian, Xian Sun, Xiaoyu Li, Yi Zhang, Qi Li, Guangluan Xu
   - TCSVT 2024
+ 
+ 
+- **OneDiff: A Generalist Model for Image Difference Captioning** [[paper]](https://openaccess.thecvf.com/content/ACCV2024/papers/Hu_OneDiff_A_Generalist_Model_for_Image_Difference_Captioning_ACCV_2024_paper.pdf) 
+  -  Erdong Hu, Longteng Guo, Tongtian Yue, Zijia Zhao, Shuning Xue, Jing Liu
+  - ACCV 2024
 
 
 
