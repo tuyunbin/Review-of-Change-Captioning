@@ -125,9 +125,21 @@
   - ACCV 2024
 
  
-- **OneDiff: A Generalist Model for Image Difference Captioning** [[paper]](https://dl.acm.org/doi/10.1145/3664647.3681453)  [[code]](https://github.com/xianzhangzx/FINER-MLLM/tree/main)
+- **Differential-Perceptive and Retrieval-Augmented MLLM for Change Captioning** [[paper]](https://dl.acm.org/doi/10.1145/3664647.3681453)  [[code]](https://github.com/xianzhangzx/FINER-MLLM/tree/main)
   - Xian Zhang, Haokun Wen, Jianlong Wu, Pengda Qin, Hui Xue, Liqiang Nie
   - ACM MM 2024
+ 
+- **VIXEN: Visual Text Comparison Network for Image Difference Captioning** [[paper]](https://arxiv.org/abs/2402.19119) 
+  - Alexander Black, Jing Shi, Yifei Fan, Tu Bui, John Collomosse
+  - AAAI 2024
+
+- **Reframing Image Difference Captioning with BLIP2IDC and Synthetic Augmentation** [[paper]](https://openaccess.thecvf.com/content/WACV2025/papers/Evennou_Reframing_Image_Difference_Captioning_with_BLIP2IDC_and_Synthetic_Augmentation_WACV_2025_paper.pdf)  [[code]](https://github.com/gautierevn/BLIP2IDC)
+  - Gautier Evennou, Antoine Chaffin, Vivien Chappelier, Ewa Kijak
+  - WACV 2025
+ 
+- **Reframing Image Difference Captioning with BLIP2IDC and Synthetic Augmentation** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32517/34672)  
+  - Rong Li, Liang Li, Jiehua Zhang, Qiang Zhao, Hongkui Wang, Chenggang Yan
+  - AAAI 2025
 
 
 
