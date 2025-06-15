@@ -124,6 +124,10 @@
   -  Erdong Hu, Longteng Guo, Tongtian Yue, Zijia Zhao, Shuning Xue, Jing Liu
   - ACCV 2024
 
+ 
+- **OneDiff: A Generalist Model for Image Difference Captioning** [[paper]](https://dl.acm.org/doi/10.1145/3664647.3681453)  [[code]](https://github.com/xianzhangzx/FINER-MLLM/tree/main)
+  - Xian Zhang, Haokun Wen, Jianlong Wu, Pengda Qin, Hui Xue, Liqiang Nie
+  - ACM MM 2024
 
 
 
