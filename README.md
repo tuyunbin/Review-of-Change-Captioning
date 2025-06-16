@@ -137,11 +137,13 @@
   - Gautier Evennou, Antoine Chaffin, Vivien Chappelier, Ewa Kijak
   - WACV 2025
  
-- **Reframing Image Difference Captioning with BLIP2IDC and Synthetic Augmentation** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32517/34672)  
+- **Region-aware Difference Distilling with Attribute-guided Contrastive Regularization for Change Captioning** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32517/34672)  
   - Rong Li, Liang Li, Jiehua Zhang, Qiang Zhao, Hongkui Wang, Chenggang Yan
   - AAAI 2025
 
-
+- **DECIDER: Difference-aware Contrastive Diffusion Model with Adversarial Perturbations for Image Change Captioning** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33158/35313)  
+  - Guojin Zhong, Jinhong Hu, Jiajun Chen, Jin Yuan, Wenbo Pan
+  - AAAI 2025
 
     
 ## 3D Scenes
