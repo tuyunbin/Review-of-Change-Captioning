@@ -168,6 +168,11 @@
 ## Remote-sensing-Scenes
 ### Awesome Works
 
+- **Context-aware Difference Distilling for Multi-change Captioning** [[paper]](https://aclanthology.org/2024.acl-long.430.pdf)  [[code]](https://github.com/tuyunbin/CARD)
+  -   Yunbin Tu, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming Huang
+  - ACL 2024
+
+    
 - **Change3D: Revisiting Change Detection and Captioning from A Video Modeling Perspective** [[paper]](https://arxiv.org/abs/2503.18803)  [[code]](https://github.com/zhuduowang/Change3D)
   - Duowang Zhu, Xiaohu Huang, Haiyan Huang, Hao Zhou, Zhenfeng Shao
   - CVPR 2025
