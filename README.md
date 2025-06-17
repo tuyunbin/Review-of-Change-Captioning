@@ -2,8 +2,8 @@
 
 ## Table of Contents
 - [General Scenes](#General-Scenes)
-- [3D-Scenes](#3D-Scenes)
-- [Remote-sensing-Scenes](#Remote-sensing-Scenes)
+- [3D Scenes](#3D-Scenes)
+- [Remote sensing Scenes](#Remote-sensing-Scenes)
   
 ## General-Scenes: Video Surveillance, Natural Image (Birds), Synthetic Data, and Image Editing
 ### Awesome Works
