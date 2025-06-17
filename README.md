@@ -1,7 +1,11 @@
 # Review-of-Change-Captioning
 
-
-## General Scenes: Video Surveillance, Natural Image (Birds), Synthetic Data, and Image Editing
+## Table of Contents
+- [General Scenes](#General-Scenes)
+- [3D-Scenes](#3D-Scenes)
+- [Remote-sensing-Scenes](#Remote-sensing-Scenes)
+  
+## General-Scenes: Video Surveillance, Natural Image (Birds), Synthetic Data, and Image Editing
 ### Awesome Works
 
 - **Learning to Describe Differences Between Pairs of Similar Images** [[paper]](https://aclanthology.org/D18-1436.pdf) [[code and dataset]](https://github.com/harsh19/spot-the-diff)
@@ -146,10 +150,10 @@
   - AAAI 2025
 
     
-## 3D Scenes
+## 3D-Scenes
 ### Paper
 
 
 
-## Remote sensing Scenes
+## Remote-sensing-Scenes
 ### Paper
