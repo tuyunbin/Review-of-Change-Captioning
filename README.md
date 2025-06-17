@@ -98,6 +98,10 @@
 - **Graph Representation for Order-aware Visual Transformation** [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Qiu_Graph_Representation_for_Order-Aware_Visual_Transformation_CVPR_2023_paper.pdf) 
   -   Yue Qiu, Yanjun Sun, Fumiya Matsuzawa, Kenji Iwata, Hirokatsu Kataoka
   - CVPR 2023
+
+- **Viewpoint Integration and Registration with Vision Language Foundation Model for Image Change Understanding** [[paper]](https://arxiv.org/abs/2309.08585) [[code]](https://github.com/lxn96/VIR-VLFM)
+  - Xiaonan Lu, Jianlong Yuan1, Ruigang Niu1, Yuan Hu, Fan Wang
+  - Arxiv 2023
  
 - **Multi-Grained Representation Aggregating Transformer with Gating Cycle for Change Captioning** [[paper]](https://dl.acm.org/doi/10.1145/3660346) 
   -   Shengbin Yue, Yunbin Tu, LiangLi,  Shengxiang Gao, Zhengtao Yu
@@ -148,7 +152,15 @@
 - **DECIDER: Difference-aware Contrastive Diffusion Model with Adversarial Perturbations for Image Change Captioning** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33158/35313)  
   - Guojin Zhong, Jinhong Hu, Jiajun Chen, Jin Yuan, Wenbo Pan
   - AAAI 2025
+ 
+- **MCT-CCDi : Context-Aware Contrastive Di usion Model With Mediator-Bridging Cross-Modal Transformer for Image Change Captioning** [[paper]](https://ieeexplore.ieee.org/abstract/document/11021330/)  
+  - Jinhong Hu, Guojin Zhong, Jin Yuan, Wenbo Pan, Xiaoping Wang
+  - TIP 2025
 
+
+- **Change3D: Revisiting Change Detection and Captioning from A Video Modeling Perspective** [[paper]](https://arxiv.org/abs/2503.18803)  [[code]](https://github.com/zhuduowang/Change3D)
+  - Duowang Zhu, Xiaohu Huang, Haiyan Huang, Hao Zhou, Zhenfeng Shao
+  - CVPR 2025
     
 ## 3D-Scenes
 ### Paper
