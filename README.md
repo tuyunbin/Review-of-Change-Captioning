@@ -100,7 +100,7 @@
   - CVPR 2023
 
 - **Viewpoint Integration and Registration with Vision Language Foundation Model for Image Change Understanding** [[paper]](https://arxiv.org/abs/2309.08585) [[code]](https://github.com/lxn96/VIR-VLFM)
-  - Xiaonan Lu, Jianlong Yuan1, Ruigang Niu1, Yuan Hu, Fan Wang
+  - Xiaonan Lu, Jianlong Yuan, Ruigang Niu, Yuan Hu, Fan Wang
   - Arxiv 2023
  
 - **Multi-Grained Representation Aggregating Transformer with Gating Cycle for Change Captioning** [[paper]](https://dl.acm.org/doi/10.1145/3660346) 
