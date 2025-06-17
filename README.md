@@ -158,9 +158,7 @@
   - TIP 2025
 
 
-- **Change3D: Revisiting Change Detection and Captioning from A Video Modeling Perspective** [[paper]](https://arxiv.org/abs/2503.18803)  [[code]](https://github.com/zhuduowang/Change3D)
-  - Duowang Zhu, Xiaohu Huang, Haiyan Huang, Hao Zhou, Zhenfeng Shao
-  - CVPR 2025
+
     
 ## 3D-Scenes
 ### Paper
@@ -168,4 +166,8 @@
 
 
 ## Remote-sensing-Scenes
-### Paper
+### Awesome Works
+
+- **Change3D: Revisiting Change Detection and Captioning from A Video Modeling Perspective** [[paper]](https://arxiv.org/abs/2503.18803)  [[code]](https://github.com/zhuduowang/Change3D)
+  - Duowang Zhu, Xiaohu Huang, Haiyan Huang, Hao Zhou, Zhenfeng Shao
+  - CVPR 2025
