@@ -172,6 +172,10 @@
   - Seloua Chouaf, Genc Hoxha, Youcef Smara, Farid Melgani
   - IGARSS 2021
 
+- **Change captioning: A new paradigm for multitemporal remote sensing image analysis** [[paper]](https://ieeexplore.ieee.org/abstract/document/9847254)  [[dataset]](https://disi.unitn.it/~melgani/datasets.html)
+  -  Genc Hoxha, Seloua Chouaf, Farid Melgani, Youcef Smara
+  - TGRS 2022
+
 - **Context-aware Difference Distilling for Multi-change Captioning** [[paper]](https://aclanthology.org/2024.acl-long.430.pdf)  [[code]](https://github.com/tuyunbin/CARD)
   -   Yunbin Tu, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming Huang
   - ACL 2024
