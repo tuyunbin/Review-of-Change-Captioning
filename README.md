@@ -168,6 +168,10 @@
 ## Remote-sensing-Scenes
 ### Awesome Works
 
+- **Captioning changes in bi-temporal remote sensing images** [[paper]](https://ieeexplore.ieee.org/abstract/document/9554419)
+  - Seloua Chouaf, Genc Hoxha, Youcef Smara, Farid Melgani
+  - IGARSS 2021
+
 - **Context-aware Difference Distilling for Multi-change Captioning** [[paper]](https://aclanthology.org/2024.acl-long.430.pdf)  [[code]](https://github.com/tuyunbin/CARD)
   -   Yunbin Tu, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming Huang
   - ACL 2024
