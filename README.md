@@ -176,7 +176,7 @@
   -  Genc Hoxha, Seloua Chouaf, Farid Melgani, Youcef Smara
   - TGRS 2022
 
-- **Remote sensing image change captioning with dual-branch transformers: A new method and a large scale dataset** [[paper]](https://arxiv.org/abs/2306.11300) [[code and dataset]](https://github.com/Chen-Yang-Liu/RSICC)
+- **Remote sensing image change captioning with dual-branch transformers: A new method and a large scale dataset** [[paper]](https://ieeexplore.ieee.org/document/9934924) [[code and dataset]](https://github.com/Chen-Yang-Liu/RSICC)
   -  Chenyang Liu, RuiZhao, Zhengxia Zou, Hao Chen, Zhenwei Shi
   - TGRS 2022
 
