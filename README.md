@@ -176,6 +176,10 @@
   -  Genc Hoxha, Seloua Chouaf, Farid Melgani, Youcef Smara
   - TGRS 2022
 
+- **Remote sensing image change captioning with dual-branch transformers: A new method and a large scale dataset** [[paper]](https://arxiv.org/abs/2306.11300) [[code and dataset]](https://github.com/Chen-Yang-Liu/RSICC)
+  -  Chenyang Liu, RuiZhao, Zhengxia Zou, Hao Chen, Zhenwei Shi
+  - TGRS 2022
+
 - **Context-aware Difference Distilling for Multi-change Captioning** [[paper]](https://aclanthology.org/2024.acl-long.430.pdf)  [[code]](https://github.com/tuyunbin/CARD)
   -   Yunbin Tu, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming Huang
   - ACL 2024
