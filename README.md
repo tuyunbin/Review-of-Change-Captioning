@@ -180,7 +180,7 @@
   -  Chenyang Liu, RuiZhao, Zhengxia Zou, Hao Chen, Zhenwei Shi
   - TGRS 2022
 
-  - **Progressive Scale-aware Network for Remote sensing Image Change Captioning** [[paper]](https://ieeexplore.ieee.org/abstract/document/10283451) [[code]](https://github.com/Chen-Yang-Liu/PSNet)
+- **Progressive Scale-aware Network for Remote sensing Image Change Captioning** [[paper]](https://ieeexplore.ieee.org/abstract/document/10283451) [[code]](https://github.com/Chen-Yang-Liu/PSNet)
   - Chenyang Liu, Jiajun Yang, Zipeng Qi, Zhengxia Zou, Zhenwei Shi 
   - IGARSS 2023
 
