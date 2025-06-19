@@ -180,6 +180,10 @@
   -  Chenyang Liu, RuiZhao, Zhengxia Zou, Hao Chen, Zhenwei Shi
   - TGRS 2022
 
+  - **Progressive Scale-aware Network for Remote sensing Image Change Captioning** [[paper]](https://ieeexplore.ieee.org/abstract/document/10283451) [[code]](https://github.com/Chen-Yang-Liu/PSNet)
+  - Chenyang Liu, Jiajun Yang, Zipeng Qi, Zhengxia Zou, Zhenwei Shi 
+  - IGARSS 2023
+
 - **Context-aware Difference Distilling for Multi-change Captioning** [[paper]](https://aclanthology.org/2024.acl-long.430.pdf)  [[code]](https://github.com/tuyunbin/CARD)
   -   Yunbin Tu, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming Huang
   - ACL 2024
