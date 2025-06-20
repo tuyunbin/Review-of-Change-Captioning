@@ -185,11 +185,11 @@
   - IGARSS 2023
  
 - **A Decoupling Paradigm with Prompt Learning for Remote Sensing Image Change Captioning** [[paper]](https://ieeexplore.ieee.org/document/10271701) [[code]](https://github.com/Chen-Yang-Liu/PromptCC)
- -  Chenyang Liu, Rui Zhao,  Jianqi Chen, Zipeng Qi, Zhengxia Zou,  Zhenwei Shi
+  -  Chenyang Liu, Rui Zhao,  Jianqi Chen, Zipeng Qi, Zhengxia Zou,  Zhenwei Shi
   - TGRS 2023
 
 - **Context-aware Difference Distilling for Multi-change Captioning** [[paper]](https://aclanthology.org/2024.acl-long.430.pdf)  [[code]](https://github.com/tuyunbin/CARD)
-  -   Yunbin Tu, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming Huang
+  - Yunbin Tu, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming Huang
   - ACL 2024
 
     
