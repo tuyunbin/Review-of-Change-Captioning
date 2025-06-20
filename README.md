@@ -184,7 +184,7 @@
   - Chenyang Liu, Jiajun Yang, Zipeng Qi, Zhengxia Zou, Zhenwei Shi 
   - IGARSS 2023
  
-  - **A Decoupling Paradigm with Prompt Learning for Remote Sensing Image Change Captioning** [[paper]](https://ieeexplore.ieee.org/document/10271701) [[code]](https://github.com/Chen-Yang-Liu/PromptCC)
+- **A Decoupling Paradigm with Prompt Learning for Remote Sensing Image Change Captioning** [[paper]](https://ieeexplore.ieee.org/document/10271701) [[code]](https://github.com/Chen-Yang-Liu/PromptCC)
  -  Chenyang Liu, Rui Zhao,  Jianqi Chen, Zipeng Qi, Zhengxia Zou,  Zhenwei Shi
   - TGRS 2023
 
