@@ -189,7 +189,7 @@
   - TGRS 2023
 
 - **Changes to Captions: An Attentive Network for Remote Sensing Change Captioning** [[paper]](https://ieeexplore.ieee.org/abstract/document/10305516) [[code]](https://github.com/ShizhenChang/Chg2Cap)
-  - Chang S, Ghamisi P.
+  -  Shizhen Chang, Pedram Ghamisi
   - TIP 2023
 
 - **Context-aware Difference Distilling for Multi-change Captioning** [[paper]](https://aclanthology.org/2024.acl-long.430.pdf)  [[code]](https://github.com/tuyunbin/CARD)
