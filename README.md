@@ -194,7 +194,7 @@
  
 - **Interactive Change-Aware Transformer Network for Remote Sensing Image Change Captioning** [[paper]](https://www.mdpi.com/2072-4292/15/23/5611) [[code]](https://github.com/caicch/ICT-Net)
   -  Chen Cai, Yi Wang, Kim-HuiYap
-  -  Remote Sensing 2923
+  -  Remote Sensing 2023
 
 - **Context-aware Difference Distilling for Multi-change Captioning** [[paper]](https://aclanthology.org/2024.acl-long.430.pdf)  [[code]](https://github.com/tuyunbin/CARD)
   - Yunbin Tu, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming Huang
