@@ -200,6 +200,9 @@
   - Yunbin Tu, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming Huang
   - ACL 2024
 
+- **Region-aware Difference Distilling with Attribute-guided Contrastive Regularization for Change Captioning** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32517/34672)  
+  - Rong Li, Liang Li, Jiehua Zhang, Qiang Zhao, Hongkui Wang, Chenggang Yan
+  - AAAI 2025
     
 - **Change3D: Revisiting Change Detection and Captioning from A Video Modeling Perspective** [[paper]](https://arxiv.org/abs/2503.18803)  [[code]](https://github.com/zhuduowang/Change3D)
   - Duowang Zhu, Xiaohu Huang, Haiyan Huang, Hao Zhou, Zhenfeng Shao
