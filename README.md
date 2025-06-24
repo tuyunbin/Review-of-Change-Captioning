@@ -196,6 +196,10 @@
   -  Chen Cai, Yi Wang, Kim-HuiYap
   -  Remote Sensing 2023
 
+- **Pixel-Level Change Detection Pseudo-Label Learning for Remote Sensing Change Captioning** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10642750)
+  - Chenyang Liu, Keyan Chen, Zipeng Qi, Zili Liu, Haotian Zhang, Zhengxia Zou, Zhenwei Shi
+  - IGARSS 2024
+
 - **Context-aware Difference Distilling for Multi-change Captioning** [[paper]](https://aclanthology.org/2024.acl-long.430.pdf)  [[code]](https://github.com/tuyunbin/CARD)
   - Yunbin Tu, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming Huang
   - ACL 2024
