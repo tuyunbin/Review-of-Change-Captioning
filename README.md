@@ -203,7 +203,11 @@
 - **Change Caption for Satellite Images Time Series** [[paper]](https://ieeexplore.ieee.org/abstract/document/10485459)[[code]](https://github.com/Crueyl123/SITSCC)
   - Wei Peng, Ping Jian, Zhuqing Mao, Yingying Zhao
   - GRSL 2024
-    
+ 
+- **RSCaMa: Remote Sensing Image Change Captioning with State Space Model** [[paper]](https://ieeexplore.ieee.org/document/10537177) [[code]](https://github.com/Chen-Yang-Liu/RSCaMa)
+  - Chenyang Liu, Keyan Chen, Bowen Chen, Haotian Zhang, Zhengxia Zou, Zhenwei Shi
+  - GRSL 2024
+  - 
 - **Context-aware Difference Distilling for Multi-change Captioning** [[paper]](https://aclanthology.org/2024.acl-long.430.pdf)  [[code]](https://github.com/tuyunbin/CARD)
   - Yunbin Tu, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming Huang
   - ACL 2024
