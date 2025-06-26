@@ -207,6 +207,10 @@
 - **RSCaMa: Remote Sensing Image Change Captioning with State Space Model** [[paper]](https://ieeexplore.ieee.org/document/10537177) [[code]](https://github.com/Chen-Yang-Liu/RSCaMa)
   - Chenyang Liu, Keyan Chen, Bowen Chen, Haotian Zhang, Zhengxia Zou, Zhenwei Shi
   - GRSL 2024
+ 
+- **A Lightweight Sparse Focus Transformer for Remote Sensing Image Change Captioning** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10700970) [[code]](https://github.com/sundongwei/SFT_chag2cap)
+  - Dongwei Sun, Yajie Bao, Junmin Liu, Xiangyong Cao
+  - JSTARS 2024
 
   
 - **Context-aware Difference Distilling for Multi-change Captioning** [[paper]](https://aclanthology.org/2024.acl-long.430.pdf)  [[code]](https://github.com/tuyunbin/CARD)
