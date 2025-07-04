@@ -213,7 +213,7 @@
   - JSTARS 2024
 
 
-  - **Single-stream Extractor Network with Contrastive Pre-training for Remote Sensing Change Captioning** [[paper]](https://ieeexplore.ieee.org/abstract/document/10530145) [[code]](https://github.com/mrazhou/SEN)
+- **Single-stream Extractor Network with Contrastive Pre-training for Remote Sensing Change Captioning** [[paper]](https://ieeexplore.ieee.org/abstract/document/10530145) [[code]](https://github.com/mrazhou/SEN)
   - Qing Zhou, Junyu Gao, Yuan Yuan, Qi Wang
   - TGRS 2024
 
