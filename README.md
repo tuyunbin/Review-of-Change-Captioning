@@ -212,6 +212,11 @@
   - Dongwei Sun, Yajie Bao, Junmin Liu, Xiangyong Cao
   - JSTARS 2024
 
+
+  - **Single-stream Extractor Network with Contrastive Pre-training for Remote Sensing Change Captioning** [[paper]](https://ieeexplore.ieee.org/abstract/document/10530145) [[code]](https://github.com/mrazhou/SEN)
+  - Qing Zhou, Junyu Gao, Yuan Yuan, Qi Wang
+  - TGRS 2024
+
   
 - **Context-aware Difference Distilling for Multi-change Captioning** [[paper]](https://aclanthology.org/2024.acl-long.430.pdf)  [[code]](https://github.com/tuyunbin/CARD)
   - Yunbin Tu, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming Huang
