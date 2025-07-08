@@ -217,6 +217,21 @@
 - **Single-stream Extractor Network with Contrastive Pre-training for Remote Sensing Change Captioning** [[paper]](https://ieeexplore.ieee.org/abstract/document/10530145) [[code]](https://github.com/mrazhou/SEN)
   - Qing Zhou, Junyu Gao, Yuan Yuan, Qi Wang
   - TGRS 2024
+  - 
+- **Change-Agent: Toward Interactive Comprehensive Remote Sensing Change Interpretation and Analysis** [[paper]](https://ieeexplore.ieee.org/abstract/document/10591792) [[code]](https://github.com/Chen-Yang-Liu/Change-Agent)
+  - Chenyang Liu, Keyan Chen, Haotian Zhang, Zipeng Qi, Zhengxia Zou, Zhenwei Shi
+  - TGRS 2024
+
+  
+- **Multi-scale Attentive Fusion Network for Remote Sensing Image Change Captioning** [[paper]](https://ieeexplore.ieee.org/document/10558583)
+  - Cai Chen, Yi Wang, Kim-Hui Yap
+  - ISCAS 2024
+
+
+- **Semantic-CC: Boosting Remote Sensing Image Change Captioning via Foundational Knowledge and Semantic Guidance** [[paper]](https://arxiv.org/abs/2407.14032)
+  - Yongshuo Zhu, Lu Li, Keyan Chen, Chenyang Liu, Fugen Zhou, Zhenwei Shi
+  - TGRS 2024
+
 
   
 - **Context-aware Difference Distilling for Multi-change Captioning** [[paper]](https://aclanthology.org/2024.acl-long.430.pdf)  [[code]](https://github.com/tuyunbin/CARD)
