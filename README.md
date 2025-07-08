@@ -157,8 +157,9 @@
   - Jinhong Hu, Guojin Zhong, Jin Yuan, Wenbo Pan, Xiaoping Wang
   - TIP 2025
 
-
-
+- **Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models** [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Jiao_Img-Diff_Contrastive_Data_Synthesis_for_Multimodal_Large_Language_Models_CVPR_2025_paper.pdf)    [[code]](https://github.com/modelscope/data-juicer/tree/ImgDiff)
+  -  Qirui Jiao, Daoyuan Chen, Yilun Huang, Bolin Ding, Yaliang Li, Ying Shen
+  - CVPR 2025
     
 ## 3D-Scenes
 ### Paper
