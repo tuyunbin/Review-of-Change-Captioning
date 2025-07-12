@@ -231,6 +231,14 @@
 - **Semantic-CC: Boosting Remote Sensing Image Change Captioning via Foundational Knowledge and Semantic Guidance** [[paper]](https://arxiv.org/abs/2407.14032)
   - Yongshuo Zhu, Lu Li, Keyan Chen, Chenyang Liu, Fugen Zhou, Zhenwei Shi
   - TGRS 2024
+
+- **MfrNet: A New Multi-Scale Feature Refining Method for Remote Sensing Image Change Captioning** [[paper]](https://ieeexplore.ieee.org/document/10640584)
+  - Kaiqi Xu, Yingping Han, Rui Yang, Xiutiao Ye, Yanhe Guo, Hantong Xing Shuang Wang
+  -  IGARSS 2024
+
+- **Detection Assisted Change Captioning for Remote Sensing Image** [[paper]](https://ieeexplore.ieee.org/document/10640971)
+  - Xiliang Li, Bin Sun, Shutao Li
+  - IGARSS 2024
   
 - **Context-aware Difference Distilling for Multi-change Captioning** [[paper]](https://aclanthology.org/2024.acl-long.430.pdf)  [[code]](https://github.com/tuyunbin/CARD)
   - Yunbin Tu, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming Huang
