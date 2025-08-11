@@ -244,6 +244,10 @@
   - Yunbin Tu, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming Huang
   - ACL 2024
 
+- **Enhancing Perception of Key Changes in Remote Sensing Image Change Captioning** [[paper]](https://arxiv.org/abs/2409.12612) [[code]](https://github.com/yangcong356/KCFI)
+  - Cong Yang, Zuchao Li, Hongzan Jiao, Zhi Gao, Lefei Zhang
+  -   Arxiv 2024
+
 - **Region-aware Difference Distilling with Attribute-guided Contrastive Regularization for Change Captioning** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32517/34672)  
   - Rong Li, Liang Li, Jiehua Zhang, Qiang Zhao, Hongkui Wang, Chenggang Yan
   - AAAI 2025
