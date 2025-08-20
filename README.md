@@ -252,6 +252,10 @@
   - Yunpeng Li, Xiangrong Zhang, Xina Cheng, Puhua Chen, Licheng Jiao
   - TGRS 2024
 
+- **ChangeMinds: Multi-task Framework for Detecting and Describing Changes in Remote Sensing** [[paper]](https://arxiv.org/abs/2410.10047) [[code]](https://github.com/Y-D-Wang/ChangeMinds)
+  - Yuduo Wang, Weikang Yu, Michael Kopp, Pedram Ghamisi
+  -  Arxiv 2024
+
 - **Region-aware Difference Distilling with Attribute-guided Contrastive Regularization for Change Captioning** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32517/34672)  
   - Rong Li, Liang Li, Jiehua Zhang, Qiang Zhao, Hongkui Wang, Chenggang Yan
   - AAAI 2025
